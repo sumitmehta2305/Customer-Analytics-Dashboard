@@ -39,10 +39,16 @@ To analyze and visualize key metrics from customer support and sales data for be
 ---
 
 ## 📸 Preview
-<p align="center">
-  <img src="customer_ds.png" width="700"/>
-  <br><em>Customer Service Dashboard</em>
-</p>
+## 📸 Dashboard Previews
+
+### 👨‍💼 Customer Service Dashboard
+![screenshots](customer_ds.png)
+
+### 💰 Finance Dashboard
+![Finance Dashboard](finance_dashboard.png)
+
+### 📦 Orders Dashboard
+![Orders Dashboard](orders_dashboard.png)
 
 ## 👨‍💻 Author
 
