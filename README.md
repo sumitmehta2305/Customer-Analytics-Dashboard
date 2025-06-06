@@ -42,12 +42,10 @@ To analyze and visualize key metrics from customer support and sales data for be
 ## 📸 Dashboard Previews
 
 ### 👨‍💼 Customer Service Dashboard
+<p>&nbsp;</p>
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/8805506e-6270-4683-b84e-846ca26c43a1)" width="700"/>
-  <br><em>Customer Service Dashboard</em>
+  <img width="586" alt="image" src="[https://github.com/user-attachments/assets/8805506e-6270-4683-b84e-846ca26c43a1)]">
 </p>
-
-
 
 ### 💰 Finance Dashboard
 ![Finance Dashboard](financ_ds.png)
