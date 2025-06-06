@@ -38,7 +38,6 @@ To analyze and visualize key metrics from customer support and sales data for be
 
 ---
 
-## 📸 Preview
 ## 📸 Dashboard Previews
 
 ### 👨‍💼 Customer Service Dashboard
