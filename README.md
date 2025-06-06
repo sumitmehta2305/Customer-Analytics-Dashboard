@@ -45,10 +45,10 @@ To analyze and visualize key metrics from customer support and sales data for be
 ![screenshots](customer_ds.png)
 
 ### 💰 Finance Dashboard
-![Finance Dashboard](finance_dashboard.png)
+![Finance Dashboard](financ_ds.png)
 
 ### 📦 Orders Dashboard
-![Orders Dashboard](orders_dashboard.png)
+![Orders Dashboard](orders_ds.png)
 
 ## 👨‍💻 Author
 
