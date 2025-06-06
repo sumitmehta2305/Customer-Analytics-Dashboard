@@ -40,7 +40,7 @@ To analyze and visualize key metrics from customer support and sales data for be
 
 ## 📸 Preview
 <p align="center">
-  <img src="Screenshot 2025-06-06 154117.png" width="700"/>
+  <img src="customer_ds.png" width="700"/>
   <br><em>Customer Service Dashboard</em>
 </p>
 
